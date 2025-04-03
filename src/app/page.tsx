@@ -12,7 +12,7 @@ import { useEffect } from "react"
 const topicsURL = "https://hodelworkshopstorage.blob.core.windows.net/$web/topics.json"
 // const QAsURL = "https://fabconworkshopalvidela.blob.core.windows.net/$web/generated-QAs.json"
 //const QAsURL = "https://raw.githubusercontent.com/videlalvaro/fabcon-flashcards-workshop-site/refs/heads/main/src/generated-QAs.json"
-const QsURL = "https://hodelworkshopstorage.blob.core.windows.net/$web/generated-QAs.json"
+const QAsURL = "https://hodelworkshopstorage.blob.core.windows.net/$web/generated-QAs.json"
 
 const startingTopic = "get-started-lakehouses"
 const startingModuleTitle = "Get started with lakehouses in Microsoft Fabric"
